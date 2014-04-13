@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5D93CD17-C911-4E33-951D-C467D41CB20B}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TrainingAtentional</RootNamespace>
+    <AssemblyName>TrainingAtentional</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v11.1, Version=11.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Web.ASPxEditors.v11.1, Version=11.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Web.v11.1, Version=11.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\UserInfo.aspx" />
+    <Content Include="Error\04-00-12.txt" />
+    <Content Include="Exit.aspx" />
+    <Content Include="ExitOrContinueToStep2.aspx" />
+    <Content Include="ExitOrContinueToStep3.aspx" />
+    <Content Include="ExitSessionTraining.aspx" />
+    <Content Include="Finish.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Login.aspx" />
+    <Content Include="DotProbe.aspx" />
+    <Content Include="Poze\DotProbe\cross\cross.jpg" />
+    <Content Include="Poze\DotProbe\empty\empty.png" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\happy-angry\congruent_dreapta\09.F.HA-AN.CGR.R.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\happy-angry\congruent_dreapta\20.M.HA-AN.CGR.R.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\happy-angry\congruent_stanga\09.F.HA-AN.CGR.L.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\happy-angry\congruent_stanga\20.M.HA-AN.CGR.L.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\happy-angry\incongruent_dreapta\09.F.HA-AN.ICGR.R.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\happy-angry\incongruent_dreapta\20.M.HA-AN.ICGR.R.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\happy-angry\incongruent_stanga\09.F.HA-AN.ICGR.L.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\happy-angry\incongruent_stanga\20.M.HA-AN.ICGR.L.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-angry\congruent_dreapta\03.F.N-AN.CGR.R.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-angry\congruent_dreapta\23.M.N-AN.CGR.R.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-angry\congruent_stanga\03.F.N-AN.CGR.L.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-angry\congruent_stanga\23.M.N-AN.CGR.L.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-angry\incongruent_dreapta\03.F.N-AN.ICGR.R.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-angry\incongruent_dreapta\23.M.N-AN.ICGR.R.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-angry\incongruent_stanga\03.F.N-AN.ICGR.L.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-angry\incongruent_stanga\23.M.N-AN.ICGR.L.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-happy\congruent_dreapta\1.F.N-HA.CGR.R.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-happy\congruent_dreapta\24.M.N-HA.CGR.R.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-happy\congruent_stanga\01.F.N-HA.CGR.L.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-happy\congruent_stanga\24.M.N-AN.CGR.L.jpg" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-happy\incongruent_dreapta\1.F.N-HA.ICGR.R.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-happy\incongruent_dreapta\24.M.N-HA.ICGR.R.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-happy\incongruent_stanga\01.F.N-HA.ICGR.L.JPG" />
+    <Content Include="Poze\DotProbe\Photo\picture_from_training\neutru-happy\incongruent_stanga\24.M.N-AN.ICGR.L.jpg" />
+    <Content Include="Poze\DotProbe\Target\horizontal_points_left.jpg" />
+    <Content Include="Poze\DotProbe\Target\horizontal_points_right.jpg" />
+    <Content Include="Poze\DotProbe\Target\vertical_points_left.jpg" />
+    <Content Include="Poze\DotProbe\Target\vertical_points_right.jpg" />
+    <Content Include="Poze\Training\Angry\0_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\17_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\18_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\1_F_AB_O.jpg" />
+    <Content Include="Poze\Training\Angry\20_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\21_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\23_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\24_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\26_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\27_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\34_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\36_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\5_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\7_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\8_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Angry\9_F_AN_O.jpg" />
+    <Content Include="Poze\Training\Cross\cruce - Copy.png" />
+    <Content Include="Poze\Training\Cross\cruce.png" />
+    <Content Include="Poze\Training\Happy\17_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\18_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\1_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\20_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\21_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\23_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\24_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\26_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\27_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\34_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\36_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\3_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\5_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\7_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\8_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Happy\9_F_HA_O.jpg" />
+    <Content Include="Poze\Training\Validation\error.png" />
+    <Content Include="Poze\Training\Validation\valid.png" />
+    <Content Include="Prepare.aspx" />
+    <Content Include="Register.aspx" />
+    <Content Include="Scripts\js.js" />
+    <Content Include="Thanks.aspx" />
+    <Content Include="Admin\TrainingResults.aspx" />
+    <Content Include="Style.css" />
+    <Content Include="Training.aspx" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\Admin.Master.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Admin.Master.designer.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UserInfo.aspx.cs">
+      <DependentUpon>UserInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\UserInfo.aspx.designer.cs">
+      <DependentUpon>UserInfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DBAcces.cs" />
+    <Compile Include="DBHelp.cs" />
+    <Compile Include="DBPool.cs" />
+    <Compile Include="Exit.aspx.cs">
+      <DependentUpon>Exit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Exit.aspx.designer.cs">
+      <DependentUpon>Exit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExitOrContinueToStep2.aspx.cs">
+      <DependentUpon>ExitOrContinueToStep2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExitOrContinueToStep2.aspx.designer.cs">
+      <DependentUpon>ExitOrContinueToStep2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExitOrContinueToStep3.aspx.cs">
+      <DependentUpon>ExitOrContinueToStep3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExitOrContinueToStep3.aspx.designer.cs">
+      <DependentUpon>ExitOrContinueToStep3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExitSessionTraining.aspx.cs">
+      <DependentUpon>ExitSessionTraining.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExitSessionTraining.aspx.designer.cs">
+      <DependentUpon>ExitSessionTraining.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Finish.aspx.cs">
+      <DependentUpon>Finish.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Finish.aspx.designer.cs">
+      <DependentUpon>Finish.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Logs\MyLogs.cs" />
+    <Compile Include="MySession.cs" />
+    <Compile Include="DotProbe.aspx.cs">
+      <DependentUpon>DotProbe.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DotProbe.aspx.designer.cs">
+      <DependentUpon>DotProbe.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PageBase.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Prepare.aspx.cs">
+      <DependentUpon>Prepare.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Prepare.aspx.designer.cs">
+      <DependentUpon>Prepare.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Thanks.aspx.cs">
+      <DependentUpon>Thanks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Thanks.aspx.designer.cs">
+      <DependentUpon>Thanks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\TrainingResults.aspx.cs">
+      <DependentUpon>TrainingResults.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\TrainingResults.aspx.designer.cs">
+      <DependentUpon>TrainingResults.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Training.aspx.cs">
+      <DependentUpon>Training.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Training.aspx.designer.cs">
+      <DependentUpon>Training.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MethodPool.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\Admin.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\Profile1.pubxml" />
+    <None Include="Properties\PublishProfiles\trainingAtentional - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\trainingAtentional - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\TrainingAtentionalCopii2Sesiuni.pubxml" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>58985</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/TAC</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

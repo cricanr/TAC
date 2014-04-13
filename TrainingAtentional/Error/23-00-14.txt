@@ -1,0 +1,206 @@
+
+Log Entry : 
+01/23/2014 09:22:51
+Error in: http://localhost:59012/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+01/23/2014 09:32:35
+Error in: http://localhost:59012/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+01/23/2014 09:56:48
+Error in: http://localhost:59012/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+01/23/2014 09:56:52
+Error in: http://localhost:59012/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+01/23/2014 10:09:36
+Error in: http://localhost:59012/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+01/23/2014 10:09:37
+Error in: http://localhost:59012/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+01/23/2014 10:09:51
+Error in: http://localhost:59012/DotProbe.aspx. Error Message:secventa initiala: 20,12,4,21,13,5,22,14,6,23,15,7,18,10,2,19,11,3,17,9,1,16,8,0,
+__________________________
+
+Log Entry : 
+01/23/2014 10:09:58
+Error in: http://localhost:59012/DotProbe.aspx. Error Message: Is test trial:True
+__________________________
+
+Log Entry : 
+01/23/2014 10:09:59
+Error in: http://localhost:59012/DotProbe.aspx. Error Message: CurrentTestTrail:1
+__________________________
+
+Log Entry : 
+01/23/2014 10:10:00
+Error in: http://localhost:59012/DotProbe.aspx. Error Message: CurrentPosition:12
+__________________________
+
+Log Entry : 
+01/23/2014 10:11:36
+Error in: http://localhost:59012/DotProbe.aspx. Error Message: Is test trial:True
+__________________________
+
+Log Entry : 
+01/23/2014 10:11:36
+Error in: http://localhost:59012/DotProbe.aspx. Error Message: CurrentTestTrail:2
+__________________________
+
+Log Entry : 
+01/23/2014 10:11:36
+Error in: http://localhost:59012/DotProbe.aspx. Error Message: CurrentPosition:4
+__________________________
+
+Log Entry : 
+01/23/2014 10:32:50
+Error in: http://localhost:59012/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+01/23/2014 10:32:54
+Error in: http://localhost:59012/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+01/23/2014 10:33:14
+Error in: http://localhost:59012/DotProbe.aspx. Error Message:MapAllPhoto:0 @ picture_from_training\happy-angry\congruent_dreapta\09.F.HA-AN.CGR.R.JPG1 @ picture_from_training\happy-angry\congruent_dreapta\20.M.HA-AN.CGR.R.JPG2 @ picture_from_training\happy-angry\congruent_stanga\09.F.HA-AN.CGR.L.JPG3 @ picture_from_training\happy-angry\congruent_stanga\20.M.HA-AN.CGR.L.JPG4 @ picture_from_training\happy-angry\incongruent_dreapta\09.F.HA-AN.ICGR.R.JPG5 @ picture_from_training\happy-angry\incongruent_dreapta\20.M.HA-AN.ICGR.R.JPG6 @ picture_from_training\happy-angry\incongruent_stanga\09.F.HA-AN.ICGR.L.JPG7 @ picture_from_training\happy-angry\incongruent_stanga\20.M.HA-AN.ICGR.L.JPG8 @ picture_from_training\neutru-angry\congruent_dreapta\03.F.N-AN.CGR.R.JPG9 @ picture_from_training\neutru-angry\congruent_dreapta\23.M.N-AN.CGR.R.JPG10 @ picture_from_training\neutru-angry\congruent_stanga\03.F.N-AN.CGR.L.JPG11 @ picture_from_training\neutru-angry\congruent_stanga\23.M.N-AN.CGR.L.JPG12 @ picture_from_training\neutru-angry\incongruent_dreapta\03.F.N-AN.ICGR.R.JPG13 @ picture_from_training\neutru-angry\incongruent_dreapta\23.M.N-AN.ICGR.R.JPG14 @ picture_from_training\neutru-angry\incongruent_stanga\03.F.N-AN.ICGR.L.JPG15 @ picture_from_training\neutru-angry\incongruent_stanga\23.M.N-AN.ICGR.L.JPG16 @ picture_from_training\neutru-happy\congruent_dreapta\1.F.N-HA.CGR.R.JPG17 @ picture_from_training\neutru-happy\congruent_dreapta\24.M.N-HA.CGR.R.JPG18 @ picture_from_training\neutru-happy\congruent_stanga\01.F.N-HA.CGR.L.JPG19 @ picture_from_training\neutru-happy\congruent_stanga\24.M.N-AN.CGR.L.jpg20 @ picture_from_training\neutru-happy\incongruent_dreapta\1.F.N-HA.ICGR.R.JPG21 @ picture_from_training\neutru-happy\incongruent_dreapta\24.M.N-HA.ICGR.R.JPG22 @ picture_from_training\neutru-happy\incongruent_stanga\01.F.N-HA.ICGR.L.JPG23 @ picture_from_training\neutru-happy\incongruent_stanga\24.M.N-AN.ICGR.L.jpg
+__________________________
+
+Log Entry : 
+01/23/2014 10:35:50
+Error in: http://localhost:59012/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+01/23/2014 10:35:52
+Error in: http://localhost:59012/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+01/23/2014 10:36:51
+Error in: http://localhost:59012/DotProbe.aspx. Error Message:MapAllPhoto:0 @ picture_from_training\happy-angry\congruent_dreapta\09.F.HA-AN.CGR.R.JPG
+1 @ picture_from_training\happy-angry\congruent_dreapta\20.M.HA-AN.CGR.R.JPG
+2 @ picture_from_training\happy-angry\congruent_stanga\09.F.HA-AN.CGR.L.JPG
+3 @ picture_from_training\happy-angry\congruent_stanga\20.M.HA-AN.CGR.L.JPG
+4 @ picture_from_training\happy-angry\incongruent_dreapta\09.F.HA-AN.ICGR.R.JPG
+5 @ picture_from_training\happy-angry\incongruent_dreapta\20.M.HA-AN.ICGR.R.JPG
+6 @ picture_from_training\happy-angry\incongruent_stanga\09.F.HA-AN.ICGR.L.JPG
+7 @ picture_from_training\happy-angry\incongruent_stanga\20.M.HA-AN.ICGR.L.JPG
+8 @ picture_from_training\neutru-angry\congruent_dreapta\03.F.N-AN.CGR.R.JPG
+9 @ picture_from_training\neutru-angry\congruent_dreapta\23.M.N-AN.CGR.R.JPG
+10 @ picture_from_training\neutru-angry\congruent_stanga\03.F.N-AN.CGR.L.JPG
+11 @ picture_from_training\neutru-angry\congruent_stanga\23.M.N-AN.CGR.L.JPG
+12 @ picture_from_training\neutru-angry\incongruent_dreapta\03.F.N-AN.ICGR.R.JPG
+13 @ picture_from_training\neutru-angry\incongruent_dreapta\23.M.N-AN.ICGR.R.JPG
+14 @ picture_from_training\neutru-angry\incongruent_stanga\03.F.N-AN.ICGR.L.JPG
+15 @ picture_from_training\neutru-angry\incongruent_stanga\23.M.N-AN.ICGR.L.JPG
+16 @ picture_from_training\neutru-happy\congruent_dreapta\1.F.N-HA.CGR.R.JPG
+17 @ picture_from_training\neutru-happy\congruent_dreapta\24.M.N-HA.CGR.R.JPG
+18 @ picture_from_training\neutru-happy\congruent_stanga\01.F.N-HA.CGR.L.JPG
+19 @ picture_from_training\neutru-happy\congruent_stanga\24.M.N-AN.CGR.L.jpg
+20 @ picture_from_training\neutru-happy\incongruent_dreapta\1.F.N-HA.ICGR.R.JPG
+21 @ picture_from_training\neutru-happy\incongruent_dreapta\24.M.N-HA.ICGR.R.JPG
+22 @ picture_from_training\neutru-happy\incongruent_stanga\01.F.N-HA.ICGR.L.JPG
+23 @ picture_from_training\neutru-happy\incongruent_stanga\24.M.N-AN.ICGR.L.jpg
+
+__________________________
+
+Log Entry : 
+01/23/2014 10:49:14
+Error in: http://localhost:59012/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+01/23/2014 10:49:21
+Error in: http://localhost:59012/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+01/23/2014 10:49:28
+Error in: http://localhost:59012/DotProbe.aspx. Error Message:MapAllPhoto:0 @ picture_from_training\happy-angry\congruent_dreapta\09.F.HA-AN.CGR.R.JPG
+1 @ picture_from_training\happy-angry\congruent_dreapta\20.M.HA-AN.CGR.R.JPG
+2 @ picture_from_training\happy-angry\congruent_stanga\09.F.HA-AN.CGR.L.JPG
+3 @ picture_from_training\happy-angry\congruent_stanga\20.M.HA-AN.CGR.L.JPG
+4 @ picture_from_training\happy-angry\incongruent_dreapta\09.F.HA-AN.ICGR.R.JPG
+5 @ picture_from_training\happy-angry\incongruent_dreapta\20.M.HA-AN.ICGR.R.JPG
+6 @ picture_from_training\happy-angry\incongruent_stanga\09.F.HA-AN.ICGR.L.JPG
+7 @ picture_from_training\happy-angry\incongruent_stanga\20.M.HA-AN.ICGR.L.JPG
+8 @ picture_from_training\neutru-angry\congruent_dreapta\03.F.N-AN.CGR.R.JPG
+9 @ picture_from_training\neutru-angry\congruent_dreapta\23.M.N-AN.CGR.R.JPG
+10 @ picture_from_training\neutru-angry\congruent_stanga\03.F.N-AN.CGR.L.JPG
+11 @ picture_from_training\neutru-angry\congruent_stanga\23.M.N-AN.CGR.L.JPG
+12 @ picture_from_training\neutru-angry\incongruent_dreapta\03.F.N-AN.ICGR.R.JPG
+13 @ picture_from_training\neutru-angry\incongruent_dreapta\23.M.N-AN.ICGR.R.JPG
+14 @ picture_from_training\neutru-angry\incongruent_stanga\03.F.N-AN.ICGR.L.JPG
+15 @ picture_from_training\neutru-angry\incongruent_stanga\23.M.N-AN.ICGR.L.JPG
+16 @ picture_from_training\neutru-happy\congruent_dreapta\1.F.N-HA.CGR.R.JPG
+17 @ picture_from_training\neutru-happy\congruent_dreapta\24.M.N-HA.CGR.R.JPG
+18 @ picture_from_training\neutru-happy\congruent_stanga\01.F.N-HA.CGR.L.JPG
+19 @ picture_from_training\neutru-happy\congruent_stanga\24.M.N-AN.CGR.L.jpg
+20 @ picture_from_training\neutru-happy\incongruent_dreapta\1.F.N-HA.ICGR.R.JPG
+21 @ picture_from_training\neutru-happy\incongruent_dreapta\24.M.N-HA.ICGR.R.JPG
+22 @ picture_from_training\neutru-happy\incongruent_stanga\01.F.N-HA.ICGR.L.JPG
+23 @ picture_from_training\neutru-happy\incongruent_stanga\24.M.N-AN.ICGR.L.jpg
+
+__________________________

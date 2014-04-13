@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="TrainingAtentionalConnectionString-Web.config Connection String" description="TrainingAtentionalConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=Radu-PC\SQLEXPRESS;Initial Catalog=TrainingAtentional;Trusted_Connection=True;Integrated Security=True;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Prg\\c\#\\Irina\\VS\\TACopii_Control\\TACopii_Control\\TrainingAtentional\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TrainingAtentionalConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

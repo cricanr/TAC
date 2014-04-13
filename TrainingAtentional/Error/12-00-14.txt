@@ -1,0 +1,449 @@
+
+Log Entry : 
+04/12/2014 12:12:53
+Error in: http://localhost/TAC/DotProbe.aspx. Error Message:MapAllPhoto:0 @ picture_from_training\happy-angry\congruent_dreapta\09.F.HA-AN.CGR.R.JPG
+1 @ picture_from_training\happy-angry\congruent_dreapta\20.M.HA-AN.CGR.R.JPG
+2 @ picture_from_training\happy-angry\congruent_stanga\09.F.HA-AN.CGR.L.JPG
+3 @ picture_from_training\happy-angry\congruent_stanga\20.M.HA-AN.CGR.L.JPG
+4 @ picture_from_training\happy-angry\incongruent_dreapta\09.F.HA-AN.ICGR.R.JPG
+5 @ picture_from_training\happy-angry\incongruent_dreapta\20.M.HA-AN.ICGR.R.JPG
+6 @ picture_from_training\happy-angry\incongruent_stanga\09.F.HA-AN.ICGR.L.JPG
+7 @ picture_from_training\happy-angry\incongruent_stanga\20.M.HA-AN.ICGR.L.JPG
+8 @ picture_from_training\neutru-angry\congruent_dreapta\03.F.N-AN.CGR.R.JPG
+9 @ picture_from_training\neutru-angry\congruent_dreapta\23.M.N-AN.CGR.R.JPG
+10 @ picture_from_training\neutru-angry\congruent_stanga\03.F.N-AN.CGR.L.JPG
+11 @ picture_from_training\neutru-angry\congruent_stanga\23.M.N-AN.CGR.L.JPG
+12 @ picture_from_training\neutru-angry\incongruent_dreapta\03.F.N-AN.ICGR.R.JPG
+13 @ picture_from_training\neutru-angry\incongruent_dreapta\23.M.N-AN.ICGR.R.JPG
+14 @ picture_from_training\neutru-angry\incongruent_stanga\03.F.N-AN.ICGR.L.JPG
+15 @ picture_from_training\neutru-angry\incongruent_stanga\23.M.N-AN.ICGR.L.JPG
+16 @ picture_from_training\neutru-happy\congruent_dreapta\1.F.N-HA.CGR.R.JPG
+17 @ picture_from_training\neutru-happy\congruent_dreapta\24.M.N-HA.CGR.R.JPG
+18 @ picture_from_training\neutru-happy\congruent_stanga\01.F.N-HA.CGR.L.JPG
+19 @ picture_from_training\neutru-happy\congruent_stanga\24.M.N-AN.CGR.L.jpg
+20 @ picture_from_training\neutru-happy\incongruent_dreapta\1.F.N-HA.ICGR.R.JPG
+21 @ picture_from_training\neutru-happy\incongruent_dreapta\24.M.N-HA.ICGR.R.JPG
+22 @ picture_from_training\neutru-happy\incongruent_stanga\01.F.N-HA.ICGR.L.JPG
+23 @ picture_from_training\neutru-happy\incongruent_stanga\24.M.N-AN.ICGR.L.jpg
+
+__________________________
+
+Log Entry : 
+04/12/2014 12:21:25
+Error in: http://localhost/TAC/DotProbe.aspx. Error Message:MapAllPhoto:0 @ picture_from_training\happy-angry\congruent_dreapta\09.F.HA-AN.CGR.R.JPG
+1 @ picture_from_training\happy-angry\congruent_dreapta\20.M.HA-AN.CGR.R.JPG
+2 @ picture_from_training\happy-angry\congruent_stanga\09.F.HA-AN.CGR.L.JPG
+3 @ picture_from_training\happy-angry\congruent_stanga\20.M.HA-AN.CGR.L.JPG
+4 @ picture_from_training\happy-angry\incongruent_dreapta\09.F.HA-AN.ICGR.R.JPG
+5 @ picture_from_training\happy-angry\incongruent_dreapta\20.M.HA-AN.ICGR.R.JPG
+6 @ picture_from_training\happy-angry\incongruent_stanga\09.F.HA-AN.ICGR.L.JPG
+7 @ picture_from_training\happy-angry\incongruent_stanga\20.M.HA-AN.ICGR.L.JPG
+8 @ picture_from_training\neutru-angry\congruent_dreapta\03.F.N-AN.CGR.R.JPG
+9 @ picture_from_training\neutru-angry\congruent_dreapta\23.M.N-AN.CGR.R.JPG
+10 @ picture_from_training\neutru-angry\congruent_stanga\03.F.N-AN.CGR.L.JPG
+11 @ picture_from_training\neutru-angry\congruent_stanga\23.M.N-AN.CGR.L.JPG
+12 @ picture_from_training\neutru-angry\incongruent_dreapta\03.F.N-AN.ICGR.R.JPG
+13 @ picture_from_training\neutru-angry\incongruent_dreapta\23.M.N-AN.ICGR.R.JPG
+14 @ picture_from_training\neutru-angry\incongruent_stanga\03.F.N-AN.ICGR.L.JPG
+15 @ picture_from_training\neutru-angry\incongruent_stanga\23.M.N-AN.ICGR.L.JPG
+16 @ picture_from_training\neutru-happy\congruent_dreapta\1.F.N-HA.CGR.R.JPG
+17 @ picture_from_training\neutru-happy\congruent_dreapta\24.M.N-HA.CGR.R.JPG
+18 @ picture_from_training\neutru-happy\congruent_stanga\01.F.N-HA.CGR.L.JPG
+19 @ picture_from_training\neutru-happy\congruent_stanga\24.M.N-AN.CGR.L.jpg
+20 @ picture_from_training\neutru-happy\incongruent_dreapta\1.F.N-HA.ICGR.R.JPG
+21 @ picture_from_training\neutru-happy\incongruent_dreapta\24.M.N-HA.ICGR.R.JPG
+22 @ picture_from_training\neutru-happy\incongruent_stanga\01.F.N-HA.ICGR.L.JPG
+23 @ picture_from_training\neutru-happy\incongruent_stanga\24.M.N-AN.ICGR.L.jpg
+
+__________________________
+
+Log Entry : 
+04/12/2014 22:28:34
+Error in: http://localhost/TAC/Trainining.aspx. Error Message:The file '/TAC/Trainining.aspx' does not exist.~~~~   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/12/2014 22:29:53
+Error in: http://localhost/TAC/Training.aspx. Error Message:Object reference not set to an instance of an object.~~~~   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 130
+__________________________
+
+Log Entry : 
+04/12/2014 22:29:55
+Error in: http://localhost/TAC/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\tac\f5e488d0\b2c7393e\App_Web_xptvyf1s.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.NullReferenceException: Object reference not set to an instance of an object.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 376
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/12/2014 22:30:10
+Error in: http://localhost/TAC/Training.aspx. Error Message:Object reference not set to an instance of an object.~~~~   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 130
+__________________________
+
+Log Entry : 
+04/12/2014 22:30:10
+Error in: http://localhost/TAC/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\tac\f5e488d0\b2c7393e\App_Web_xptvyf1s.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.NullReferenceException: Object reference not set to an instance of an object.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 376
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/12/2014 22:30:48
+Error in: http://localhost/TAC/Training.aspx. Error Message:Object reference not set to an instance of an object.~~~~   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 130
+__________________________
+
+Log Entry : 
+04/12/2014 22:30:48
+Error in: http://localhost/TAC/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\tac\f5e488d0\b2c7393e\App_Web_xptvyf1s.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.NullReferenceException: Object reference not set to an instance of an object.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 376
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/12/2014 22:32:58
+Error in: http://localhost/TAC/Training.aspx. Error Message:Object reference not set to an instance of an object.~~~~   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 130
+__________________________
+
+Log Entry : 
+04/12/2014 22:32:58
+Error in: http://localhost/TAC/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\tac\f5e488d0\b2c7393e\App_Web_xptvyf1s.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.NullReferenceException: Object reference not set to an instance of an object.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 376
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/12/2014 22:45:37
+Error in: http://localhost/TAC/Training.aspx. Error Message:Object reference not set to an instance of an object.~~~~   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 148
+__________________________
+
+Log Entry : 
+04/12/2014 22:45:38
+Error in: http://localhost/TAC/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\tac\f5e488d0\b2c7393e\App_Web_dk3gupga.3.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.NullReferenceException: Object reference not set to an instance of an object.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 376
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/12/2014 22:47:11
+Error in: http://localhost/TAC/DotProbe.aspx. Error Message:MapAllPhoto:0 @ picture_from_training\happy-angry\congruent_dreapta\09.F.HA-AN.CGR.R.JPG
+1 @ picture_from_training\happy-angry\congruent_dreapta\20.M.HA-AN.CGR.R.JPG
+2 @ picture_from_training\happy-angry\congruent_stanga\09.F.HA-AN.CGR.L.JPG
+3 @ picture_from_training\happy-angry\congruent_stanga\20.M.HA-AN.CGR.L.JPG
+4 @ picture_from_training\happy-angry\incongruent_dreapta\09.F.HA-AN.ICGR.R.JPG
+5 @ picture_from_training\happy-angry\incongruent_dreapta\20.M.HA-AN.ICGR.R.JPG
+6 @ picture_from_training\happy-angry\incongruent_stanga\09.F.HA-AN.ICGR.L.JPG
+7 @ picture_from_training\happy-angry\incongruent_stanga\20.M.HA-AN.ICGR.L.JPG
+8 @ picture_from_training\neutru-angry\congruent_dreapta\03.F.N-AN.CGR.R.JPG
+9 @ picture_from_training\neutru-angry\congruent_dreapta\23.M.N-AN.CGR.R.JPG
+10 @ picture_from_training\neutru-angry\congruent_stanga\03.F.N-AN.CGR.L.JPG
+11 @ picture_from_training\neutru-angry\congruent_stanga\23.M.N-AN.CGR.L.JPG
+12 @ picture_from_training\neutru-angry\incongruent_dreapta\03.F.N-AN.ICGR.R.JPG
+13 @ picture_from_training\neutru-angry\incongruent_dreapta\23.M.N-AN.ICGR.R.JPG
+14 @ picture_from_training\neutru-angry\incongruent_stanga\03.F.N-AN.ICGR.L.JPG
+15 @ picture_from_training\neutru-angry\incongruent_stanga\23.M.N-AN.ICGR.L.JPG
+16 @ picture_from_training\neutru-happy\congruent_dreapta\1.F.N-HA.CGR.R.JPG
+17 @ picture_from_training\neutru-happy\congruent_dreapta\24.M.N-HA.CGR.R.JPG
+18 @ picture_from_training\neutru-happy\congruent_stanga\01.F.N-HA.CGR.L.JPG
+19 @ picture_from_training\neutru-happy\congruent_stanga\24.M.N-AN.CGR.L.jpg
+20 @ picture_from_training\neutru-happy\incongruent_dreapta\1.F.N-HA.ICGR.R.JPG
+21 @ picture_from_training\neutru-happy\incongruent_dreapta\24.M.N-HA.ICGR.R.JPG
+22 @ picture_from_training\neutru-happy\incongruent_stanga\01.F.N-HA.ICGR.L.JPG
+23 @ picture_from_training\neutru-happy\incongruent_stanga\24.M.N-AN.ICGR.L.jpg
+
+__________________________
+
+Log Entry : 
+04/12/2014 22:48:43
+Error in: http://localhost/TAC/Training.aspx. Error Message:Object reference not set to an instance of an object.~~~~   at TrainingAtentional.Training.get_CurrentTrail() in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 32
+   at TrainingAtentional.Training.get_CurrentHPhotoID() in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 44
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 156
+__________________________
+
+Log Entry : 
+04/12/2014 22:48:44
+Error in: http://localhost/TAC/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\tac\f5e488d0\b2c7393e\App_Web_1fliz1gb.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.NullReferenceException: Object reference not set to an instance of an object.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 376
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/12/2014 22:49:55
+Error in: http://localhost/TAC/Training.aspx. Error Message:Object reference not set to an instance of an object.~~~~   at TrainingAtentional.Training.get_CurrentTrail() in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 32
+   at TrainingAtentional.Training.get_CurrentHPhotoID() in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 44
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 156
+__________________________
+
+Log Entry : 
+04/12/2014 22:49:58
+Error in: http://localhost/TAC/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\tac\f5e488d0\b2c7393e\App_Web_1fliz1gb.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.NullReferenceException: Object reference not set to an instance of an object.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 376
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/12/2014 22:51:48
+Error in: http://localhost/TAC/Training.aspx. Error Message:Object reference not set to an instance of an object.~~~~   at TrainingAtentional.Training.get_CurrentTrail() in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 32
+   at TrainingAtentional.Training.get_CurrentHPhotoID() in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 44
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 156
+__________________________
+
+Log Entry : 
+04/12/2014 22:51:48
+Error in: http://localhost/TAC/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\tac\f5e488d0\b2c7393e\App_Web_1fliz1gb.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.NullReferenceException: Object reference not set to an instance of an object.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 376
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/12/2014 22:52:42
+Error in: http://localhost/TAC/DotProbe.aspx. Error Message:MapAllPhoto:0 @ picture_from_training\happy-angry\congruent_dreapta\09.F.HA-AN.CGR.R.JPG
+1 @ picture_from_training\happy-angry\congruent_dreapta\20.M.HA-AN.CGR.R.JPG
+2 @ picture_from_training\happy-angry\congruent_stanga\09.F.HA-AN.CGR.L.JPG
+3 @ picture_from_training\happy-angry\congruent_stanga\20.M.HA-AN.CGR.L.JPG
+4 @ picture_from_training\happy-angry\incongruent_dreapta\09.F.HA-AN.ICGR.R.JPG
+5 @ picture_from_training\happy-angry\incongruent_dreapta\20.M.HA-AN.ICGR.R.JPG
+6 @ picture_from_training\happy-angry\incongruent_stanga\09.F.HA-AN.ICGR.L.JPG
+7 @ picture_from_training\happy-angry\incongruent_stanga\20.M.HA-AN.ICGR.L.JPG
+8 @ picture_from_training\neutru-angry\congruent_dreapta\03.F.N-AN.CGR.R.JPG
+9 @ picture_from_training\neutru-angry\congruent_dreapta\23.M.N-AN.CGR.R.JPG
+10 @ picture_from_training\neutru-angry\congruent_stanga\03.F.N-AN.CGR.L.JPG
+11 @ picture_from_training\neutru-angry\congruent_stanga\23.M.N-AN.CGR.L.JPG
+12 @ picture_from_training\neutru-angry\incongruent_dreapta\03.F.N-AN.ICGR.R.JPG
+13 @ picture_from_training\neutru-angry\incongruent_dreapta\23.M.N-AN.ICGR.R.JPG
+14 @ picture_from_training\neutru-angry\incongruent_stanga\03.F.N-AN.ICGR.L.JPG
+15 @ picture_from_training\neutru-angry\incongruent_stanga\23.M.N-AN.ICGR.L.JPG
+16 @ picture_from_training\neutru-happy\congruent_dreapta\1.F.N-HA.CGR.R.JPG
+17 @ picture_from_training\neutru-happy\congruent_dreapta\24.M.N-HA.CGR.R.JPG
+18 @ picture_from_training\neutru-happy\congruent_stanga\01.F.N-HA.CGR.L.JPG
+19 @ picture_from_training\neutru-happy\congruent_stanga\24.M.N-AN.CGR.L.jpg
+20 @ picture_from_training\neutru-happy\incongruent_dreapta\1.F.N-HA.ICGR.R.JPG
+21 @ picture_from_training\neutru-happy\incongruent_dreapta\24.M.N-HA.ICGR.R.JPG
+22 @ picture_from_training\neutru-happy\incongruent_stanga\01.F.N-HA.ICGR.L.JPG
+23 @ picture_from_training\neutru-happy\incongruent_stanga\24.M.N-AN.ICGR.L.jpg
+
+__________________________
+
+Log Entry : 
+04/12/2014 22:54:17
+Error in: http://localhost/TAC/Training.aspx. Error Message:Object reference not set to an instance of an object.~~~~   at TrainingAtentional.Training.get_CurrentTrail() in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 32
+   at TrainingAtentional.Training.get_CurrentHPhotoID() in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 44
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 156
+__________________________
+
+Log Entry : 
+04/12/2014 22:54:19
+Error in: http://localhost/TAC/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\tac\f5e488d0\b2c7393e\App_Web_1fliz1gb.2.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.NullReferenceException: Object reference not set to an instance of an object.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 376
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/12/2014 22:59:10
+Error in: http://localhost/TAC/Training.aspx. Error Message:Object reference not set to an instance of an object.~~~~   at TrainingAtentional.Training.get_CurrentTrail() in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 32
+   at TrainingAtentional.Training.get_CurrentHPhotoID() in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 44
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 156
+__________________________
+
+Log Entry : 
+04/12/2014 22:59:11
+Error in: http://localhost/TAC/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\tac\f5e488d0\b2c7393e\App_Web_4ab13oo0.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.NullReferenceException: Object reference not set to an instance of an object.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 376
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/12/2014 23:02:00
+Error in: http://localhost/TAC/Training.aspx. Error Message:Object reference not set to an instance of an object.~~~~   at TrainingAtentional.Training.get_CurrentTrail() in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 32
+   at TrainingAtentional.Training.get_CurrentHPhotoID() in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 44
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 156
+__________________________
+
+Log Entry : 
+04/12/2014 23:02:00
+Error in: http://localhost/TAC/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\tac\f5e488d0\b2c7393e\App_Web_4ab13oo0.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.NullReferenceException: Object reference not set to an instance of an object.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 376
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/12/2014 23:14:41
+Error in: http://localhost/TAC/DotProbe.aspx. Error Message:MapAllPhoto:0 @ picture_from_training\happy-angry\congruent_dreapta\09.F.HA-AN.CGR.R.JPG
+1 @ picture_from_training\happy-angry\congruent_dreapta\20.M.HA-AN.CGR.R.JPG
+2 @ picture_from_training\happy-angry\congruent_stanga\09.F.HA-AN.CGR.L.JPG
+3 @ picture_from_training\happy-angry\congruent_stanga\20.M.HA-AN.CGR.L.JPG
+4 @ picture_from_training\happy-angry\incongruent_dreapta\09.F.HA-AN.ICGR.R.JPG
+5 @ picture_from_training\happy-angry\incongruent_dreapta\20.M.HA-AN.ICGR.R.JPG
+6 @ picture_from_training\happy-angry\incongruent_stanga\09.F.HA-AN.ICGR.L.JPG
+7 @ picture_from_training\happy-angry\incongruent_stanga\20.M.HA-AN.ICGR.L.JPG
+8 @ picture_from_training\neutru-angry\congruent_dreapta\03.F.N-AN.CGR.R.JPG
+9 @ picture_from_training\neutru-angry\congruent_dreapta\23.M.N-AN.CGR.R.JPG
+10 @ picture_from_training\neutru-angry\congruent_stanga\03.F.N-AN.CGR.L.JPG
+11 @ picture_from_training\neutru-angry\congruent_stanga\23.M.N-AN.CGR.L.JPG
+12 @ picture_from_training\neutru-angry\incongruent_dreapta\03.F.N-AN.ICGR.R.JPG
+13 @ picture_from_training\neutru-angry\incongruent_dreapta\23.M.N-AN.ICGR.R.JPG
+14 @ picture_from_training\neutru-angry\incongruent_stanga\03.F.N-AN.ICGR.L.JPG
+15 @ picture_from_training\neutru-angry\incongruent_stanga\23.M.N-AN.ICGR.L.JPG
+16 @ picture_from_training\neutru-happy\congruent_dreapta\1.F.N-HA.CGR.R.JPG
+17 @ picture_from_training\neutru-happy\congruent_dreapta\24.M.N-HA.CGR.R.JPG
+18 @ picture_from_training\neutru-happy\congruent_stanga\01.F.N-HA.CGR.L.JPG
+19 @ picture_from_training\neutru-happy\congruent_stanga\24.M.N-AN.CGR.L.jpg
+20 @ picture_from_training\neutru-happy\incongruent_dreapta\1.F.N-HA.ICGR.R.JPG
+21 @ picture_from_training\neutru-happy\incongruent_dreapta\24.M.N-HA.ICGR.R.JPG
+22 @ picture_from_training\neutru-happy\incongruent_stanga\01.F.N-HA.ICGR.L.JPG
+23 @ picture_from_training\neutru-happy\incongruent_stanga\24.M.N-AN.ICGR.L.jpg
+
+__________________________
+
+Log Entry : 
+04/12/2014 23:15:25
+Error in: http://localhost/TAC/Training.aspx. Error Message:Object reference not set to an instance of an object.~~~~   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 185
+__________________________
+
+Log Entry : 
+04/12/2014 23:15:26
+Error in: http://localhost/TAC/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\tac\f5e488d0\b2c7393e\App_Web_nokjy2bf.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.NullReferenceException: Object reference not set to an instance of an object.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\Training.aspx.cs:line 376
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/12/2014 23:16:04
+Error in: http://localhost/TAC/DotProbe.aspx. Error Message:MapAllPhoto:0 @ picture_from_training\happy-angry\congruent_dreapta\09.F.HA-AN.CGR.R.JPG
+1 @ picture_from_training\happy-angry\congruent_dreapta\20.M.HA-AN.CGR.R.JPG
+2 @ picture_from_training\happy-angry\congruent_stanga\09.F.HA-AN.CGR.L.JPG
+3 @ picture_from_training\happy-angry\congruent_stanga\20.M.HA-AN.CGR.L.JPG
+4 @ picture_from_training\happy-angry\incongruent_dreapta\09.F.HA-AN.ICGR.R.JPG
+5 @ picture_from_training\happy-angry\incongruent_dreapta\20.M.HA-AN.ICGR.R.JPG
+6 @ picture_from_training\happy-angry\incongruent_stanga\09.F.HA-AN.ICGR.L.JPG
+7 @ picture_from_training\happy-angry\incongruent_stanga\20.M.HA-AN.ICGR.L.JPG
+8 @ picture_from_training\neutru-angry\congruent_dreapta\03.F.N-AN.CGR.R.JPG
+9 @ picture_from_training\neutru-angry\congruent_dreapta\23.M.N-AN.CGR.R.JPG
+10 @ picture_from_training\neutru-angry\congruent_stanga\03.F.N-AN.CGR.L.JPG
+11 @ picture_from_training\neutru-angry\congruent_stanga\23.M.N-AN.CGR.L.JPG
+12 @ picture_from_training\neutru-angry\incongruent_dreapta\03.F.N-AN.ICGR.R.JPG
+13 @ picture_from_training\neutru-angry\incongruent_dreapta\23.M.N-AN.ICGR.R.JPG
+14 @ picture_from_training\neutru-angry\incongruent_stanga\03.F.N-AN.ICGR.L.JPG
+15 @ picture_from_training\neutru-angry\incongruent_stanga\23.M.N-AN.ICGR.L.JPG
+16 @ picture_from_training\neutru-happy\congruent_dreapta\1.F.N-HA.CGR.R.JPG
+17 @ picture_from_training\neutru-happy\congruent_dreapta\24.M.N-HA.CGR.R.JPG
+18 @ picture_from_training\neutru-happy\congruent_stanga\01.F.N-HA.CGR.L.JPG
+19 @ picture_from_training\neutru-happy\congruent_stanga\24.M.N-AN.CGR.L.jpg
+20 @ picture_from_training\neutru-happy\incongruent_dreapta\1.F.N-HA.ICGR.R.JPG
+21 @ picture_from_training\neutru-happy\incongruent_dreapta\24.M.N-HA.ICGR.R.JPG
+22 @ picture_from_training\neutru-happy\incongruent_stanga\01.F.N-HA.ICGR.L.JPG
+23 @ picture_from_training\neutru-happy\incongruent_stanga\24.M.N-AN.ICGR.L.jpg
+
+__________________________

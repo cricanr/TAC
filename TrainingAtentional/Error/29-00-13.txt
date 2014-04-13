@@ -1,0 +1,458 @@
+
+Log Entry : 
+04/29/2013 16:17:42
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 16:20:30
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 16:21:16
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 16:21:35
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 16:34:02
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 16:34:25
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 16:47:22
+Error in: http://localhost:49300/Training.aspx. Error Message:The given key was not present in the dictionary.~~~~   at TrainingAtentional.Training.FillPhotos(List`1 photoIDSequence, Int32 currentHPosition) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 453
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 157
+__________________________
+
+Log Entry : 
+04/29/2013 16:47:48
+Error in: http://localhost:49300/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Users\george.OPTIMACJ\AppData\Local\Temp\Temporary ASP.NET Files\root\e95c6fee\7cc59093\App_Web_xfge0rkq.1.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 362
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/29/2013 17:06:03
+Error in: http://localhost:49300/Training.aspx. Error Message:The given key was not present in the dictionary.~~~~   at TrainingAtentional.Training.FillPhotos(List`1 photoIDSequence, Int32 currentHPosition) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 453
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 157
+__________________________
+
+Log Entry : 
+04/29/2013 17:06:20
+Error in: http://localhost:49300/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Users\george.OPTIMACJ\AppData\Local\Temp\Temporary ASP.NET Files\root\e95c6fee\7cc59093\App_Web_xigointo.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 362
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/29/2013 17:07:20
+Error in: http://localhost:49300/Training.aspx. Error Message:The given key was not present in the dictionary.~~~~   at TrainingAtentional.Training.FillPhotos(List`1 photoIDSequence, Int32 currentHPosition) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 453
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 157
+__________________________
+
+Log Entry : 
+04/29/2013 17:07:20
+Error in: http://localhost:49300/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Users\george.OPTIMACJ\AppData\Local\Temp\Temporary ASP.NET Files\root\e95c6fee\7cc59093\App_Web_xigointo.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 362
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/29/2013 17:08:10
+Error in: http://localhost:49300/Training.aspx. Error Message:The given key was not present in the dictionary.~~~~   at TrainingAtentional.Training.FillPhotos(List`1 photoIDSequence, Int32 currentHPosition) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 453
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 157
+__________________________
+
+Log Entry : 
+04/29/2013 17:08:12
+Error in: http://localhost:49300/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Users\george.OPTIMACJ\AppData\Local\Temp\Temporary ASP.NET Files\root\e95c6fee\7cc59093\App_Web_xigointo.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 362
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/29/2013 17:08:23
+Error in: http://localhost:49300/Training.aspx. Error Message:The given key was not present in the dictionary.~~~~   at TrainingAtentional.Training.FillPhotos(List`1 photoIDSequence, Int32 currentHPosition) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 453
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 157
+__________________________
+
+Log Entry : 
+04/29/2013 17:08:24
+Error in: http://localhost:49300/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Users\george.OPTIMACJ\AppData\Local\Temp\Temporary ASP.NET Files\root\e95c6fee\7cc59093\App_Web_xigointo.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 362
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/29/2013 17:11:19
+Error in: http://localhost:49300/Training.aspx. Error Message:The given key was not present in the dictionary.~~~~   at TrainingAtentional.Training.FillPhotos(List`1 photoIDSequence, Int32 currentHPosition) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 453
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 157
+__________________________
+
+Log Entry : 
+04/29/2013 17:11:19
+Error in: http://localhost:49300/Training.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.training_aspx.ProcessRequest(HttpContext context) in c:\Users\george.OPTIMACJ\AppData\Local\Temp\Temporary ASP.NET Files\root\e95c6fee\7cc59093\App_Web_xigointo.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at TrainingAtentional.Training.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\Training.aspx.cs:line 362
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/29/2013 17:50:48
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 17:51:19
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 17:51:24
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 17:53:16
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 17:53:19
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 18:43:16
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 18:43:29
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 18:43:44
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 18:46:15
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 18:46:29
+Error in: http://localhost:49300/favicon.ico. Error Message:File does not exist.~~~~   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+__________________________
+
+Log Entry : 
+04/29/2013 18:51:16
+Error in: http://localhost:49300/DotProbe.aspx. Error Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index~~~~   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TrainingAtentional.DotProbe.SetCurrentPositionAndImageUrl() in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 282
+   at TrainingAtentional.DotProbe.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 209
+__________________________
+
+Log Entry : 
+04/29/2013 18:56:57
+Error in: http://localhost:49300/DotProbe.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.dotprobe_aspx.ProcessRequest(HttpContext context) in c:\Users\george.OPTIMACJ\AppData\Local\Temp\Temporary ASP.NET Files\root\e95c6fee\7cc59093\App_Web_ge3qb5km.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at TrainingAtentional.DotProbe.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 256
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/29/2013 19:12:16
+Error in: http://localhost:49300/DotProbe.aspx. Error Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index~~~~   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TrainingAtentional.DotProbe.SetCurrentPositionAndImageUrl() in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 282
+   at TrainingAtentional.DotProbe.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 209
+__________________________
+
+Log Entry : 
+04/29/2013 19:12:16
+Error in: http://localhost:49300/DotProbe.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.dotprobe_aspx.ProcessRequest(HttpContext context) in c:\Users\george.OPTIMACJ\AppData\Local\Temp\Temporary ASP.NET Files\root\e95c6fee\7cc59093\App_Web_ge3qb5km.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at TrainingAtentional.DotProbe.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 256
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/29/2013 19:40:08
+Error in: http://localhost:49300/DotProbe.aspx. Error Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index~~~~   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TrainingAtentional.DotProbe.SetCurrentPositionAndImageUrl() in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 286
+   at TrainingAtentional.DotProbe.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 200
+__________________________
+
+Log Entry : 
+04/29/2013 19:40:08
+Error in: http://localhost:49300/DotProbe.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.dotprobe_aspx.ProcessRequest(HttpContext context) in c:\Users\george.OPTIMACJ\AppData\Local\Temp\Temporary ASP.NET Files\root\e95c6fee\7cc59093\App_Web_4mepqpil.4.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at TrainingAtentional.DotProbe.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 260
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/29/2013 19:42:48
+Error in: http://localhost:49300/DotProbe.aspx. Error Message:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index~~~~   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at TrainingAtentional.DotProbe.SetCurrentPositionAndImageUrl() in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 286
+   at TrainingAtentional.DotProbe.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 200
+__________________________
+
+Log Entry : 
+04/29/2013 19:42:48
+Error in: http://localhost:49300/DotProbe.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.dotprobe_aspx.ProcessRequest(HttpContext context) in c:\Users\george.OPTIMACJ\AppData\Local\Temp\Temporary ASP.NET Files\root\e95c6fee\7cc59093\App_Web_ltsrjsty.5.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at TrainingAtentional.DotProbe.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 260
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/29/2013 19:55:00
+Error in: http://localhost:49300/DotProbe.aspx. Error Message:eroare la inserare trial dot~~~~   at TrainingAtentional.DotProbe.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 166
+__________________________
+
+Log Entry : 
+04/29/2013 19:55:04
+Error in: http://localhost:49300/DotProbe.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.dotprobe_aspx.ProcessRequest(HttpContext context) in c:\Users\george.OPTIMACJ\AppData\Local\Temp\Temporary ASP.NET Files\root\e95c6fee\7cc59093\App_Web_qahmblvv.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.ApplicationException: eroare la inserare trial dot
+   at TrainingAtentional.DotProbe.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 260
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________
+
+Log Entry : 
+04/29/2013 19:55:09
+Error in: http://localhost:49300/DotProbe.aspx. Error Message:eroare la inserare trial dot~~~~   at TrainingAtentional.DotProbe.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 166
+__________________________
+
+Log Entry : 
+04/29/2013 19:55:25
+Error in: http://localhost:49300/DotProbe.aspx. Error Message:Exception of type 'System.Web.HttpUnhandledException' was thrown.~~~~   at System.Web.UI.Page.HandleError(Exception e)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+   at System.Web.UI.Page.ProcessRequest()
+   at System.Web.UI.Page.ProcessRequestWithNoAssert(HttpContext context)
+   at System.Web.UI.Page.ProcessRequest(HttpContext context)
+   at ASP.dotprobe_aspx.ProcessRequest(HttpContext context) in c:\Users\george.OPTIMACJ\AppData\Local\Temp\Temporary ASP.NET Files\root\e95c6fee\7cc59093\App_Web_qahmblvv.0.cs:line 0
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)@@@@@@System.ApplicationException: eroare la inserare trial dot
+   at TrainingAtentional.DotProbe.Page_Load(Object sender, EventArgs e) in d:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\DotProbe.aspx.cs:line 260
+   at System.Web.Util.CalliEventHandlerDelegateProxy.Callback(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.OnLoad(EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+__________________________

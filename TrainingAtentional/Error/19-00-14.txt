@@ -1,0 +1,58 @@
+
+Log Entry : 
+03/19/2014 07:08:15
+Error in: http://localhost:58985/DotProbe.aspx. Error Message:MapAllPhoto:0 @ picture_from_training\happy-angry\congruent_dreapta\09.F.HA-AN.CGR.R.JPG
+1 @ picture_from_training\happy-angry\congruent_dreapta\20.M.HA-AN.CGR.R.JPG
+2 @ picture_from_training\happy-angry\congruent_stanga\09.F.HA-AN.CGR.L.JPG
+3 @ picture_from_training\happy-angry\congruent_stanga\20.M.HA-AN.CGR.L.JPG
+4 @ picture_from_training\happy-angry\incongruent_dreapta\09.F.HA-AN.ICGR.R.JPG
+5 @ picture_from_training\happy-angry\incongruent_dreapta\20.M.HA-AN.ICGR.R.JPG
+6 @ picture_from_training\happy-angry\incongruent_stanga\09.F.HA-AN.ICGR.L.JPG
+7 @ picture_from_training\happy-angry\incongruent_stanga\20.M.HA-AN.ICGR.L.JPG
+8 @ picture_from_training\neutru-angry\congruent_dreapta\03.F.N-AN.CGR.R.JPG
+9 @ picture_from_training\neutru-angry\congruent_dreapta\23.M.N-AN.CGR.R.JPG
+10 @ picture_from_training\neutru-angry\congruent_stanga\03.F.N-AN.CGR.L.JPG
+11 @ picture_from_training\neutru-angry\congruent_stanga\23.M.N-AN.CGR.L.JPG
+12 @ picture_from_training\neutru-angry\incongruent_dreapta\03.F.N-AN.ICGR.R.JPG
+13 @ picture_from_training\neutru-angry\incongruent_dreapta\23.M.N-AN.ICGR.R.JPG
+14 @ picture_from_training\neutru-angry\incongruent_stanga\03.F.N-AN.ICGR.L.JPG
+15 @ picture_from_training\neutru-angry\incongruent_stanga\23.M.N-AN.ICGR.L.JPG
+16 @ picture_from_training\neutru-happy\congruent_dreapta\1.F.N-HA.CGR.R.JPG
+17 @ picture_from_training\neutru-happy\congruent_dreapta\24.M.N-HA.CGR.R.JPG
+18 @ picture_from_training\neutru-happy\congruent_stanga\01.F.N-HA.CGR.L.JPG
+19 @ picture_from_training\neutru-happy\congruent_stanga\24.M.N-AN.CGR.L.jpg
+20 @ picture_from_training\neutru-happy\incongruent_dreapta\1.F.N-HA.ICGR.R.JPG
+21 @ picture_from_training\neutru-happy\incongruent_dreapta\24.M.N-HA.ICGR.R.JPG
+22 @ picture_from_training\neutru-happy\incongruent_stanga\01.F.N-HA.ICGR.L.JPG
+23 @ picture_from_training\neutru-happy\incongruent_stanga\24.M.N-AN.ICGR.L.jpg
+
+__________________________
+
+Log Entry : 
+03/19/2014 07:22:41
+Error in: http://localhost:58985/DotProbe.aspx. Error Message:MapAllPhoto:0 @ picture_from_training\happy-angry\congruent_dreapta\09.F.HA-AN.CGR.R.JPG
+1 @ picture_from_training\happy-angry\congruent_dreapta\20.M.HA-AN.CGR.R.JPG
+2 @ picture_from_training\happy-angry\congruent_stanga\09.F.HA-AN.CGR.L.JPG
+3 @ picture_from_training\happy-angry\congruent_stanga\20.M.HA-AN.CGR.L.JPG
+4 @ picture_from_training\happy-angry\incongruent_dreapta\09.F.HA-AN.ICGR.R.JPG
+5 @ picture_from_training\happy-angry\incongruent_dreapta\20.M.HA-AN.ICGR.R.JPG
+6 @ picture_from_training\happy-angry\incongruent_stanga\09.F.HA-AN.ICGR.L.JPG
+7 @ picture_from_training\happy-angry\incongruent_stanga\20.M.HA-AN.ICGR.L.JPG
+8 @ picture_from_training\neutru-angry\congruent_dreapta\03.F.N-AN.CGR.R.JPG
+9 @ picture_from_training\neutru-angry\congruent_dreapta\23.M.N-AN.CGR.R.JPG
+10 @ picture_from_training\neutru-angry\congruent_stanga\03.F.N-AN.CGR.L.JPG
+11 @ picture_from_training\neutru-angry\congruent_stanga\23.M.N-AN.CGR.L.JPG
+12 @ picture_from_training\neutru-angry\incongruent_dreapta\03.F.N-AN.ICGR.R.JPG
+13 @ picture_from_training\neutru-angry\incongruent_dreapta\23.M.N-AN.ICGR.R.JPG
+14 @ picture_from_training\neutru-angry\incongruent_stanga\03.F.N-AN.ICGR.L.JPG
+15 @ picture_from_training\neutru-angry\incongruent_stanga\23.M.N-AN.ICGR.L.JPG
+16 @ picture_from_training\neutru-happy\congruent_dreapta\1.F.N-HA.CGR.R.JPG
+17 @ picture_from_training\neutru-happy\congruent_dreapta\24.M.N-HA.CGR.R.JPG
+18 @ picture_from_training\neutru-happy\congruent_stanga\01.F.N-HA.CGR.L.JPG
+19 @ picture_from_training\neutru-happy\congruent_stanga\24.M.N-AN.CGR.L.jpg
+20 @ picture_from_training\neutru-happy\incongruent_dreapta\1.F.N-HA.ICGR.R.JPG
+21 @ picture_from_training\neutru-happy\incongruent_dreapta\24.M.N-HA.ICGR.R.JPG
+22 @ picture_from_training\neutru-happy\incongruent_stanga\01.F.N-HA.ICGR.L.JPG
+23 @ picture_from_training\neutru-happy\incongruent_stanga\24.M.N-AN.ICGR.L.jpg
+
+__________________________

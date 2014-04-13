@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>
+    </TimeStampOfAssociatedLegacyPublishXmlFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin/Admin.Master">
+      <publishTime>04/16/2012 11:25:26</publishTime>
+    </File>
+    <File Include="Admin/TrainingResults.aspx">
+      <publishTime>05/10/2012 18:52:22</publishTime>
+    </File>
+    <File Include="Admin/UserInfo.aspx">
+      <publishTime>04/15/2012 10:49:20</publishTime>
+    </File>
+    <File Include="bin/TrainingAtentional.dll">
+      <publishTime>04/30/2013 15:14:26</publishTime>
+    </File>
+    <File Include="bin/TrainingAtentional.pdb">
+      <publishTime>05/11/2012 14:20:29</publishTime>
+    </File>
+    <File Include="DotProbe.aspx">
+      <publishTime>04/29/2013 17:03:12</publishTime>
+    </File>
+    <File Include="Error/04-00-12.txt">
+      <publishTime>05/04/2012 13:33:48</publishTime>
+    </File>
+    <File Include="Exit.aspx">
+      <publishTime>04/30/2013 13:30:15</publishTime>
+    </File>
+    <File Include="ExitOrContinueToStep2.aspx">
+      <publishTime>04/22/2012 15:07:34</publishTime>
+    </File>
+    <File Include="ExitOrContinueToStep3.aspx">
+      <publishTime>04/30/2013 13:53:20</publishTime>
+    </File>
+    <File Include="ExitSessionTraining.aspx">
+      <publishTime>04/30/2013 14:04:08</publishTime>
+    </File>
+    <File Include="Finish.aspx">
+      <publishTime>05/06/2012 09:49:16</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/27/2012 16:05:38</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>04/24/2013 16:12:08</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/cross/cross.jpg">
+      <publishTime>04/07/2012 11:07:21</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/empty/empty.png">
+      <publishTime>04/22/2012 16:27:02</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/happy-angry/congruent_dreapta/10.F.AN-HA.CGR.R.JPG">
+      <publishTime>03/29/2012 14:10:54</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/happy-angry/congruent_dreapta/33.M.AN-HA.CGR.R.JPG">
+      <publishTime>03/29/2012 21:30:42</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/happy-angry/congruent_stanga/10.F.AN-HA.CGR.L.JPG">
+      <publishTime>03/29/2012 14:11:48</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/happy-angry/congruent_stanga/33.M.AN-HA.CGR.L.JPG">
+      <publishTime>03/29/2012 21:31:50</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/happy-angry/incongruent_dreapta/10.F.AN-HA.ICGR.R.JPG">
+      <publishTime>03/29/2012 14:10:54</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/happy-angry/incongruent_dreapta/33.M.AN-HA.ICGR.R.JPG">
+      <publishTime>03/29/2012 21:30:42</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/happy-angry/incongruent_stanga/10.F.AN-HA.ICGR.L.JPG">
+      <publishTime>03/29/2012 14:11:48</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/happy-angry/incongruent_stanga/33.M.AN-HA.ICGR.L.JPG">
+      <publishTime>03/29/2012 21:31:50</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-angry/congruent_dreapta/02.F.N-AN.CGR.R.JPG">
+      <publishTime>03/29/2012 14:14:02</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-angry/congruent_dreapta/37.M.N-AN.CGR.R.JPG">
+      <publishTime>03/29/2012 22:19:26</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-angry/congruent_stanga/02.F.N-AN.CGR.L.JPG">
+      <publishTime>03/29/2012 14:13:28</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-angry/congruent_stanga/37.M.N-AN.CGR.L.JPG">
+      <publishTime>03/29/2012 22:18:26</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-angry/incongruent_dreapta/02.F.N-AN.ICGR.R.JPG">
+      <publishTime>03/29/2012 14:14:02</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-angry/incongruent_dreapta/37.M.N-AN.ICGR.R.JPG">
+      <publishTime>03/29/2012 22:19:26</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-angry/incongruent_stanga/02.F.N-AN.ICGR.L.JPG">
+      <publishTime>03/29/2012 14:13:28</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-angry/incongruent_stanga/37.M.N-AN.ICGR.L.JPG">
+      <publishTime>03/29/2012 22:18:26</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-happy/congruent_dreapta/06.F.N-HA.CGR.R.JPG">
+      <publishTime>03/29/2012 14:16:06</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-happy/congruent_dreapta/30.M.N-HA.CGR.R.JPG">
+      <publishTime>03/29/2012 15:27:48</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-happy/congruent_stanga/06.F.N-HA.CGR.L.JPG">
+      <publishTime>03/29/2012 14:15:28</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-happy/congruent_stanga/30.M.N-HA.CGR.L.JPG">
+      <publishTime>03/29/2012 15:28:40</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-happy/incongruent_dreapta/06.F.N-HA.ICGR.R.JPG">
+      <publishTime>03/29/2012 14:16:06</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-happy/incongruent_dreapta/30.M.N-HA.ICGR.R.JPG">
+      <publishTime>03/29/2012 15:27:48</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-happy/incongruent_stanga/06.F.N-HA.ICGR.L.JPG">
+      <publishTime>03/29/2012 14:15:28</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/pictures_from_outside_training/neutru-happy/incongruent_stanga/30.M.N-HA.ICGR.L.JPG">
+      <publishTime>03/29/2012 15:28:40</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/congruent_dreapta/08.F.HA-AN.CGR.R.JPG">
+      <publishTime>04/29/2013 17:20:35</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/congruent_dreapta/09.F.HA-AN.CGR.R.JPG">
+      <publishTime>04/29/2013 17:20:54</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/congruent_dreapta/20.M.HA-AN.CGR.R.JPG">
+      <publishTime>04/29/2013 17:21:18</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/congruent_dreapta/21.M.HA-AN.CGR.R.JPG">
+      <publishTime>04/29/2013 17:21:37</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/congruent_stanga/08.F.HA-AN.CGR.L.jpg">
+      <publishTime>04/29/2013 17:21:56</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/congruent_stanga/09.F.HA-AN.CGR.L.JPG">
+      <publishTime>04/29/2013 17:22:17</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/congruent_stanga/20.M.HA-AN.CGR.L.JPG">
+      <publishTime>04/29/2013 17:22:36</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/congruent_stanga/21.M.HA-AN.CGR.L.JPG">
+      <publishTime>04/29/2013 17:22:56</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/incongruent_dreapta/08.F.HA-AN.ICGR.R.JPG">
+      <publishTime>04/29/2013 17:23:23</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/incongruent_dreapta/09.F.HA-AN.ICGR.R.JPG">
+      <publishTime>04/29/2013 17:23:46</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/incongruent_dreapta/20.M.HA-AN.ICGR.R.JPG">
+      <publishTime>04/29/2013 17:24:05</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/incongruent_dreapta/21.M.HA-AN.ICGR.R.JPG">
+      <publishTime>04/29/2013 17:24:24</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/incongruent_stanga/08.F.HA-AN.ICGR.L.jpg">
+      <publishTime>04/29/2013 17:24:46</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/incongruent_stanga/09.F.HA-AN.ICGR.L.JPG">
+      <publishTime>04/29/2013 17:25:03</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/incongruent_stanga/20.M.HA-AN.ICGR.L.JPG">
+      <publishTime>04/29/2013 17:25:22</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/happy-angry/incongruent_stanga/21.M.HA-AN.ICGR.L.JPG">
+      <publishTime>04/29/2013 17:25:40</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/congruent_dreapta/03.F.N-AN.CGR.R.JPG">
+      <publishTime>04/29/2013 17:26:37</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/congruent_dreapta/18.F.N-AN.CGR.R.JPG">
+      <publishTime>04/29/2013 17:26:52</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/congruent_dreapta/23.M.N-AN.CGR.R.JPG">
+      <publishTime>04/29/2013 17:27:20</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/congruent_dreapta/27.M.N-AN.CGR.R.JPG">
+      <publishTime>04/29/2013 17:27:36</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/congruent_stanga/03.F.N-AN.CGR.L.JPG">
+      <publishTime>04/29/2013 17:29:01</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/congruent_stanga/18.F.N-AN.CGR.L.JPG">
+      <publishTime>04/29/2013 17:28:11</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/congruent_stanga/23.M.N-AN.CGR.L.JPG">
+      <publishTime>04/29/2013 17:28:28</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/congruent_stanga/27.M.N-AN.CGR.L.JPG">
+      <publishTime>04/29/2013 17:28:48</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/incongruent_dreapta/03.F.N-AN.ICGR.R.JPG">
+      <publishTime>04/29/2013 17:30:34</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/incongruent_dreapta/18.F.N-AN.ICGR.R.JPG">
+      <publishTime>04/29/2013 17:30:18</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/incongruent_dreapta/23.M.N-AN.ICGR.R.JPG">
+      <publishTime>04/29/2013 17:30:03</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/incongruent_dreapta/27.M.N-AN.ICGR.R.JPG">
+      <publishTime>04/29/2013 17:29:46</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/incongruent_stanga/03.F.N-AN.ICGR.L.JPG">
+      <publishTime>04/29/2013 17:30:52</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/incongruent_stanga/18.F.N-AN.ICGR.L.JPG">
+      <publishTime>04/29/2013 17:31:08</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/incongruent_stanga/23.M.N-AN.ICGR.L.JPG">
+      <publishTime>04/29/2013 17:31:24</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-angry/incongruent_stanga/27.M.N-AN.ICGR.L.JPG">
+      <publishTime>04/29/2013 17:31:40</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/congruent_dreapta/1.F.N-HA.CGR.R.JPG">
+      <publishTime>04/29/2013 17:36:52</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/congruent_dreapta/17.F.N-HA.CGR.R.JPG">
+      <publishTime>04/29/2013 17:37:06</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/congruent_dreapta/24.M.N-HA.CGR.R.jpg">
+      <publishTime>04/29/2013 17:36:19</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/congruent_dreapta/26.M.N-HA.CGR.R.JPG">
+      <publishTime>04/29/2013 17:36:37</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/congruent_stanga/01.F.N-HA.CGR.L.JPG">
+      <publishTime>04/29/2013 17:35:51</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/congruent_stanga/17.F.N-HA.CGR.L.jpg">
+      <publishTime>04/29/2013 17:35:26</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/congruent_stanga/24.M.N-AN.CGR.L.JPG">
+      <publishTime>03/29/2012 13:27:42</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/congruent_stanga/24.M.N-HA.CGR.L.JPG">
+      <publishTime>04/29/2013 17:36:04</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/congruent_stanga/26.M.N-HA.CGR.L.JPG">
+      <publishTime>04/29/2013 17:35:39</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/incongruent_dreapta/1.F.N-HA.ICGR.R.JPG">
+      <publishTime>04/29/2013 17:34:25</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/incongruent_dreapta/17.F.N-HA.ICGR.R.JPG">
+      <publishTime>04/29/2013 17:35:13</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/incongruent_dreapta/24.M.N-HA.ICGR.R.jpg">
+      <publishTime>04/29/2013 17:35:00</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/incongruent_dreapta/26.M.N-HA.ICGR.R.JPG">
+      <publishTime>04/29/2013 17:34:45</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/incongruent_stanga/01.F.N-HA.ICGR.L.JPG">
+      <publishTime>04/29/2013 17:34:07</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/incongruent_stanga/17.F.N-HA.ICGR.L.jpg">
+      <publishTime>04/29/2013 17:33:21</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/incongruent_stanga/24.M.N-AN.ICGR.L.JPG">
+      <publishTime>03/29/2012 13:27:42</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/incongruent_stanga/24.M.N-HA.ICGR.L.JPG">
+      <publishTime>04/29/2013 17:33:39</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Photo/picture_from_training/neutru-happy/incongruent_stanga/26.M.N-HA.ICGR.L.JPG">
+      <publishTime>04/29/2013 17:33:54</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Target/horizontal_points_left.jpg">
+      <publishTime>04/07/2012 11:28:38</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Target/horizontal_points_right.jpg">
+      <publishTime>04/07/2012 11:31:06</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Target/vertical_points_left.jpg">
+      <publishTime>04/07/2012 11:23:16</publishTime>
+    </File>
+    <File Include="Poze/DotProbe/Target/vertical_points_right.jpg">
+      <publishTime>04/07/2012 11:26:43</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/0_F_AN_O.JPG">
+      <publishTime>05/05/2012 18:05:04</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/10_M_AN_O.jpg">
+      <publishTime>04/29/2013 17:14:26</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/11_F_AN_O.jpg">
+      <publishTime>04/29/2013 17:14:57</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/12_M_AN_O.jpg">
+      <publishTime>04/29/2013 17:15:26</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/13_F_AN_O.jpg">
+      <publishTime>04/29/2013 17:15:59</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/14_M_AN_O.jpg">
+      <publishTime>04/29/2013 17:16:39</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/15_F_AN_O.jpg">
+      <publishTime>04/29/2013 17:17:07</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/16_M_AN_O.jpg">
+      <publishTime>04/29/2013 17:17:54</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/17_F_AN_O.jpg">
+      <publishTime>05/05/2012 18:06:30</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/18_F_AN_O.jpg">
+      <publishTime>05/05/2012 18:06:40</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/1_F_AB_O.jpg">
+      <publishTime>05/05/2012 18:05:28</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/1_F_AN_O.jpg">
+      <publishTime>04/29/2013 17:01:42</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/20_M_AN_O.jpg">
+      <publishTime>05/05/2012 18:06:50</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/21_M_AN_O.jpg">
+      <publishTime>05/05/2012 18:07:02</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/23_M_AN_O.jpg">
+      <publishTime>05/05/2012 18:07:14</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/24_M_AN_O.jpg">
+      <publishTime>05/05/2012 18:07:28</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/26_M_AN_O.jpg">
+      <publishTime>05/05/2012 18:07:36</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/27_M_AN_O.jpg">
+      <publishTime>05/05/2012 18:07:46</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/2_M_AN_O.jpg">
+      <publishTime>04/29/2013 17:07:49</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/34_M_AN_O.jpg">
+      <publishTime>05/05/2012 18:07:54</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/36_M_AN_O.jpg">
+      <publishTime>05/05/2012 18:08:06</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/3_F_AN_O.jpg">
+      <publishTime>04/29/2013 17:08:32</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/4_M_AN_O.jpg">
+      <publishTime>04/29/2013 17:10:31</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/5_F_AN_O.jpg">
+      <publishTime>04/29/2013 17:11:36</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/6_M_AN_O.jpg">
+      <publishTime>04/29/2013 17:12:15</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/7_F_AN_O.jpg">
+      <publishTime>04/29/2013 17:12:47</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/8_F_AN_O.jpg">
+      <publishTime>05/05/2012 18:06:10</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/8_M_AN_O.jpg">
+      <publishTime>04/29/2013 17:13:17</publishTime>
+    </File>
+    <File Include="Poze/Training/Angry/9_F_AN_O.jpg">
+      <publishTime>04/29/2013 17:13:53</publishTime>
+    </File>
+    <File Include="Poze/Training/Cross/cruce.png">
+      <publishTime>04/14/2012 17:59:29</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/10_M_HA_O.jpg">
+      <publishTime>04/29/2013 17:14:42</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/11_F_HA_O.jpg">
+      <publishTime>04/29/2013 17:15:12</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/12_M_HA_O.jpg">
+      <publishTime>04/29/2013 17:15:44</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/13_F_HA_O.jpg">
+      <publishTime>04/29/2013 17:16:17</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/14_M_HA_O.jpg">
+      <publishTime>04/29/2013 17:16:52</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/15_F_HA_O.jpg">
+      <publishTime>04/29/2013 17:17:37</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/16_M_HA_O.jpg">
+      <publishTime>04/29/2013 17:18:10</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/17_F_HA_O.jpg">
+      <publishTime>05/05/2012 18:10:18</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/18_F_HA_O.jpg">
+      <publishTime>05/05/2012 18:09:58</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/1_F_HA_O.jpg">
+      <publishTime>04/29/2013 17:07:26</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/20_M_HA_O.jpg">
+      <publishTime>05/05/2012 18:10:06</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/21_M_HA_O.jpg">
+      <publishTime>05/05/2012 18:10:28</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/23_M_HA_O.jpg">
+      <publishTime>05/05/2012 18:10:36</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/24_M_HA_O.jpg">
+      <publishTime>05/05/2012 18:10:44</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/26_M_HA_O.jpg">
+      <publishTime>05/05/2012 18:10:52</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/27_M_HA_O.jpg">
+      <publishTime>05/05/2012 18:11:04</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/2_M_HA_O.jpg">
+      <publishTime>04/29/2013 17:08:10</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/34_M_HA_O.jpg">
+      <publishTime>05/05/2012 18:11:14</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/36_M_HA_O.jpg">
+      <publishTime>05/05/2012 18:11:22</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/3_F_HA_O.JPG">
+      <publishTime>04/29/2013 17:08:52</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/4_M_HA_O.jpg">
+      <publishTime>04/29/2013 17:11:19</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/5_F_HA_O.jpg">
+      <publishTime>04/29/2013 17:11:57</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/6_M_HA_O.jpg">
+      <publishTime>04/29/2013 17:12:29</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/7_F_HA_O.jpg">
+      <publishTime>04/29/2013 17:13:03</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/8_F_HA_O.jpg">
+      <publishTime>05/05/2012 18:09:32</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/8_M_HA_O.jpg">
+      <publishTime>04/29/2013 17:13:38</publishTime>
+    </File>
+    <File Include="Poze/Training/Happy/9_F_HA_O.jpg">
+      <publishTime>04/29/2013 17:14:10</publishTime>
+    </File>
+    <File Include="Poze/Training/Validation/error.png">
+      <publishTime>05/04/2012 13:44:20</publishTime>
+    </File>
+    <File Include="Poze/Training/Validation/valid.png">
+      <publishTime>04/21/2012 12:40:12</publishTime>
+    </File>
+    <File Include="Prepare.aspx">
+      <publishTime>04/30/2013 14:14:56</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>05/06/2012 10:04:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>02/26/2012 12:24:32</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>02/26/2012 12:24:32</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>02/26/2012 12:24:32</publishTime>
+    </File>
+    <File Include="Scripts/js.js">
+      <publishTime>04/14/2012 16:30:34</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>04/21/2012 14:54:42</publishTime>
+    </File>
+    <File Include="Style.css">
+      <publishTime>04/29/2013 17:02:59</publishTime>
+    </File>
+    <File Include="Thanks.aspx">
+      <publishTime>04/29/2013 18:43:25</publishTime>
+    </File>
+    <File Include="Training.aspx">
+      <publishTime>05/06/2012 12:15:12</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/30/2013 15:14:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

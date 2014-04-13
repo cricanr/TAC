@@ -1,0 +1,10 @@
+D:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\bin\TrainingAtentional.dll
+D:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\bin\TrainingAtentional.pdb
+D:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\obj\Release\TrainingAtentional.dll
+D:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\obj\Release\TrainingAtentional.pdb
+D:\private\Treburi serioase, nu alea alea\Training Atentional\Cod sursa\TrainingAtentional\obj\Release\TrainingAtentional.csprojResolveAssemblyReference.cache
+D:\private\Versiuni multiple Training Atentional\TrainingAtentional_Copii_14 sesiuni\TrainingAtentional\bin\TrainingAtentional.dll
+D:\private\Versiuni multiple Training Atentional\TrainingAtentional_Copii_14 sesiuni\TrainingAtentional\bin\TrainingAtentional.pdb
+D:\private\Versiuni multiple Training Atentional\TrainingAtentional_Copii_14 sesiuni\TrainingAtentional\obj\Release\TrainingAtentional.csprojResolveAssemblyReference.cache
+D:\private\Versiuni multiple Training Atentional\TrainingAtentional_Copii_14 sesiuni\TrainingAtentional\obj\Release\TrainingAtentional.dll
+D:\private\Versiuni multiple Training Atentional\TrainingAtentional_Copii_14 sesiuni\TrainingAtentional\obj\Release\TrainingAtentional.pdb

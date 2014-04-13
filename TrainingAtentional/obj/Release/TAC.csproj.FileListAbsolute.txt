@@ -1,0 +1,6 @@
+D:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\bin\TrainingAtentional.dll.config
+D:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\bin\TrainingAtentional.dll
+D:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\bin\TrainingAtentional.pdb
+D:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\obj\Release\TrainingAtentional.dll
+D:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\obj\Release\TrainingAtentional.pdb
+D:\Prg\c#\Irina\VS\TACopii_Control\TACopii_Control\TrainingAtentional\obj\Release\TAC.csprojResolveAssemblyReference.cache
