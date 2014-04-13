@@ -215,6 +215,7 @@
     <Compile Include="Finish.aspx.designer.cs">
       <DependentUpon>Finish.aspx</DependentUpon>
     </Compile>
+    <Compile Include="GeneratePosition.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

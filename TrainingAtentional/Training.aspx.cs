@@ -163,11 +163,11 @@ namespace TrainingAtentional
 
                     FillPhotos(PhotoIDPositionSequence, CurrentHPosition);
                     
-
-                    if (ExtraMySession.Stage == 1)
+                    // TODO: check if this logic is still needed
+                    //if (ExtraMySession.Stage == 1)
                         hIsTest.Value = "1";
-                    else
-                        hIsTest.Value = "0";
+                    //else
+                    //    hIsTest.Value = "0";
 
 
                 }
@@ -275,8 +275,6 @@ namespace TrainingAtentional
                                     CurrentTrail++;
                                     if (CurrentTrail < CONST_totalTrials)//198
                                     {
-                                        // FIXME:"this line will produce STACKOVERFLOW exception
-                                        // needs optimization
                                         CurrentHPosition = GetHPosition(CurrentHPosition);
                                         hCurrentHPosition.Value = CurrentHPosition.ToString();
                                         PhotoIDPositionSequence = GetPhotoIDSequence(CurrentHPosition, CurrentHPhotoID);
@@ -398,17 +396,28 @@ namespace TrainingAtentional
 
         private int GetHPosition(int currentHPosition)
         {
-            int result = 0;
+            int newPosition = 0;
             try
             {
-                var imageOrder = new List<int>() { 5, 6, 10, 11, 0, 1, 2, 3, 4, 7, 8, 9, 12, 13, 14, 15 };
-                result = MethodPool.GetPositionPercentage(4, 15, 12, 85, imageOrder, currentHPosition);
+                
+                var generatePosition = new GeneratePosition();
+                generatePosition.ImageOrder = new List<int>() { 5, 6, 10, 11, 0, 1, 2, 3, 4, 7, 8, 9, 12, 13, 14, 15 };
+                generatePosition.FirstNumber = 4;
+                generatePosition.HorizontalPosition = 15;
+                generatePosition.SecondNumber = 12;
+                generatePosition.VerticalPosition = 85;
+                newPosition = generatePosition.GetPositionPercentage(currentHPosition);
+
+                while (newPosition == currentHPosition)
+                {
+                    newPosition = generatePosition.GetPositionPercentage(currentHPosition);
+                }
             }
             catch (Exception ex)
             {
                 throw ex;
             }
-            return result;
+            return newPosition;
         }
 
         private List<int> GetPhotoIDSequence(int currentHPosition, int currentHPhotoID)
