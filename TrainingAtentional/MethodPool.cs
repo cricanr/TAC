@@ -71,21 +71,6 @@ namespace TrainingAtentional
     }
     public static class MethodPool
     {
-        private static List<decimal> percentList = null;
-
-        public static List<decimal> GetPositionPercentagesPercentList(int a, int x, int b, int y, List<int> array)
-        {
-            if (percentList == null)
-            {
-                return CalculatePositionPercentages(a, x, b, y, array);
-            }
-            else
-            {
-                return percentList;
-            }
-        }
-
-
         public static List<int> GenerateUniqueRandomList(int n)
         {
             ArrayList list = new ArrayList();
@@ -100,8 +85,6 @@ namespace TrainingAtentional
             return l.OrderBy(x => rand.Next()).Take(n).ToList<int>();
 
         }
-
-
 
         public static List<int> GenerateRandomList(int n, int minValue, int maxValue)
         {
@@ -251,53 +234,6 @@ namespace TrainingAtentional
             return result;
 
         }
-        /// <summary>
-        /// first a values from the array have a sum of x% , the next b values have y%
-        /// </summary>
-        /// <param name="a"></param>
-        /// <param name="x"></param>
-        /// <param name="b"></param>
-        /// <param name="y"></param>
-        /// <param name="array"></param>
-        /// <returns></returns>
-        public static int GetPositionPercentage(int a, int x, int b, int y, List<int> array, int oldPosition)
-        {
-            int result = 0;
-
-            try
-            {
-                int newPosition = oldPosition;
-
-                percentList = CalculatePositionPercentages(a, x, b, y, array);
-
-                Random rand = new Random();
-                int generatedNr = rand.Next(0, 101);
-
-                for (int i = 0; i < array.Count; i++)
-                {
-                    if (percentList[i] >= generatedNr)
-                    {
-                        newPosition = array[i];
-                        break;
-                    }
-                }
-
-                if (newPosition != oldPosition)
-                {
-                    return newPosition;
-                }
-                else
-                {
-                    result = GetPositionPercentage(a, x, b, y, array, oldPosition);
-                }
-            }
-            catch (Exception ex)
-            {
-                throw ex;
-            }
-
-            return result;
-        }
 
         public static void FillFileMap(Dictionary<int, string> map, PhotoFolderType photoFolderType)
         {
@@ -439,36 +375,6 @@ namespace TrainingAtentional
                 throw ex;
             }
             return result;
-        }
-
-
-        public static List<decimal> CalculatePositionPercentages(int a, int x, int b, int y, List<int> array)
-        {
-            percentList = new List<decimal>();
-            int length = array.Count;
-            if (length != a + b) return null;
-
-            decimal horizontalPercentage = (decimal)x / a;
-            for (int i = 0; i < a; i++)
-            {
-                percentList.Add(horizontalPercentage);
-            }
-
-            decimal verticalPercentage = (decimal)y / b;
-            for (int i = 0; i < b; i++)
-            {
-                percentList.Add(verticalPercentage);
-            }
-
-            for (int i = 1; i < length; i++)
-            {
-                percentList[i] += percentList[i - 1];
-            }
-
-            //deoarece suma poate da 99,9999
-            percentList[length - 1] = 100;
-
-            return percentList;
         }
     }
 }
